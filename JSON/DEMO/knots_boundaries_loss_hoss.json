@@ -1,0 +1,74 @@
+{
+  "MATHEMATICS": {
+    "boundaries_3": [150, 700],
+    "boundaries_4": [180, 780],
+    "boundaries_5": [220, 800],
+    "boundaries_6": [240, 830],
+    "boundaries_7": [280, 860],
+    "boundaries_8": [310, 890],
+    "boundaries_9": [340, 920],
+    "boundaries_10": [370, 950],
+    "knots_3": [392, 440, 481, 529],
+    "knots_4": [425, 470, 506, 546],
+    "knots_5": [452, 495, 530, 569],
+    "knots_6": [465, 509, 546, 588],
+    "knots_7": [490, 530, 565, 600],
+    "knots_8": [500, 545, 580, 620],
+    "knots_9": [515, 560, 595, 630],
+    "knots_10": [530, 575, 610, 645],
+    "loss.hoss_3": [150, 700],
+    "loss.hoss_4": [180, 780],
+    "loss.hoss_5": [220, 800],
+    "loss.hoss_6": [240, 830],
+    "loss.hoss_7": [280, 860],
+    "loss.hoss_8": [310, 890],
+    "loss.hoss_9": [340, 920],
+    "loss.hoss_10": [370, 950]
+  },
+  "READING": {
+    "boundaries_3": [150, 795],
+    "boundaries_4": [180, 940],
+    "boundaries_5": [220, 955],
+    "boundaries_6": [260, 970],
+    "boundaries_7": [300, 980],
+    "boundaries_8": [330, 990],
+    "boundaries_9": [350, 995],
+    "boundaries_10": [370, 999],
+    "knots_3": [510, 550, 580, 615],
+    "knots_4": [542, 580, 606, 635],
+    "knots_5": [562, 602, 632, 665],
+    "knots_6": [575, 615, 645, 675],
+    "knots_7": [586, 625, 655, 690],
+    "knots_8": [605, 642, 670, 702],
+    "knots_9": [620, 655, 680, 706],
+    "knots_10": [642, 675, 700, 730],
+    "loss.hoss_3": [150, 795],
+    "loss.hoss_4": [180, 940],
+    "loss.hoss_5": [220, 955],
+    "loss.hoss_6": [260, 970],
+    "loss.hoss_7": [300, 980],
+    "loss.hoss_8": [330, 990],
+    "loss.hoss_9": [350, 995],
+    "loss.hoss_10": [370, 999]
+  },
+  "ALGEBRA_I": {
+    "boundaries_EOCT": [340, 920],
+    "knots_EOCT": [515, 560, 595, 630],
+    "loss.hoss_EOCT": [340, 920]
+  },
+  "ALGEBRA_II": {
+    "boundaries_EOCT": [370, 950],
+    "knots_EOCT": [530, 575, 610, 645],
+    "loss.hoss_EOCT": [370, 950]
+  },
+  "GRADE_9_LIT": {
+    "boundaries_EOCT": [350, 995],
+    "knots_EOCT": [620, 655, 680, 706],
+    "loss.hoss_EOCT": [350, 995]
+  },
+  "AMERICAN_LIT": {
+    "boundaries_EOCT": [370, 999],
+    "knots_EOCT": [642, 675, 700, 730],
+    "loss.hoss_EOCT": [370, 999]
+  }
+}
