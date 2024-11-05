@@ -13,7 +13,10 @@ require(jsonlite)
 #########################################################
 ### DEMO 
 #########################################################
+load("CSEM/DEMO/csemInterpolationFunctions.Rdata")
+
 sgpFlowStateData[["DEMO"]][["Achievement"]][["Knots_Boundaries"]] <- fromJSON("JSON/DEMO/knots_boundaries_loss_hoss.json")
+sgpFlowStateData[["DEMO"]][["Achievement"]][["CSEM"]] <- csemInterpolationFunctions
 
 
 
