@@ -19,6 +19,15 @@ sgpFlowStateData[["DEMO"]][["Achievement"]][["Knots_Boundaries"]] <- fromJSON("J
 sgpFlowStateData[["DEMO"]][["Achievement"]][["CSEM"]] <- csemInterpolationFunctions
 
 
+#########################################################
+### INDIANA 
+#########################################################
+load("CSEM/IN/csemInterpolationFunctions.Rdata")
+
+sgpFlowStateData[["IN"]][["Achievement"]][["Knots_Boundaries"]] <- fromJSON("JSON/DEMO/knots_boundaries_loss_hoss.json")
+sgpFlowStateData[["IN"]][["Achievement"]][["CSEM"]] <- csemInterpolationFunctions
+
+
 
 
 

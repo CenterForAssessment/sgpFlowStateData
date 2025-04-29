@@ -5,5 +5,5 @@
 require(SGP)
 require(sgpFlow)
 
-tmp.csem.data <- SGPstateData[['DEMO']][['Assessment_Program_Information']][['CSEM']]
-createCSEMInterpolationFunctions(tmp.csem.data)
+DEMO_CSEM_Lookup <- SGPstateData[['DEMO']][['Assessment_Program_Information']][['CSEM']]
+sgpFlow:::createCSEMInterpolationFunctions(DEMO_CSEM_Lookup)
